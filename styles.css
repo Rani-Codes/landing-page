@@ -1,0 +1,20 @@
+
+* {
+  margin: 0px;
+  padding: 0px;  
+}
+
+.sectionOne {
+  background-color: #1F2937;
+}
+
+.headerLogo {
+  font-size: 24px;
+  color: #F9FAF8;
+}
+
+.headerLink {
+  font-size: 18px;
+  color: #E5E7EB;
+}
+

@@ -1,1 +1,1 @@
-# landing-page
+This project allows me to use all of the html, css, and flexbox knowledge I have so far by creating a site's landing page. By the end of the project, I will have the basics of css and flexbox down alongside my pre existing html knowledge.
